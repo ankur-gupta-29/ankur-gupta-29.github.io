@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Ankur Gupta"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - publications.qmd
+      - linux_server.qmd
+      - about.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
