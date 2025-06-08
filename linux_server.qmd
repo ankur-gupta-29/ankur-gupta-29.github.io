@@ -2,5 +2,6 @@
 title: "Linux Server"
 ---
 
-Matlab error
+Matlab error 5201
+solution: rm -rf ~/.MathWorks/ServiceHost ~/.MATLABConnector 
 
