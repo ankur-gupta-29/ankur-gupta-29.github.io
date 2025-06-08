@@ -1,5 +1,19 @@
 ---
 title: "Ankur Gupta"
+about:
+    template: trestles
+    links:
+        - icon: linkedin
+          text: LinkedIn
+          url: https://linkedin.com/in/ankur-gupta-520094141
+        - icon: twitter
+          text: Twitter
+          url: https://linkedin.com/in/ankur-gupta-520094141
+        - icon: github
+          text: Github
+          url: https://github.com/ankur-gupta-29
+image: img/profile.png
+comments: false
 ---
 
 This is a Quarto website.
