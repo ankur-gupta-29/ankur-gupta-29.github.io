@@ -25,6 +25,6 @@
     "href": "linux_server.html",
     "title": "Linux Server",
     "section": "",
-    "text": "Matlab error 5201 solution: rm -rf ~/.MathWorks/ServiceHost ~/.MATLABConnector"
+    "text": "Matlab error 5201\nsolution: rm -rf ~/.MathWorks/ServiceHost ~/.MATLABConnector"
   }
 ]
