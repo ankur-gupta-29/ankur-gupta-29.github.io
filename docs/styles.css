@@ -36,24 +36,139 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Education Items */
-.education-item {
+/* Highlight Box */
+.highlight-box {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
-    padding: 1.2em 1.5em;
-    margin: 1em 0;
+    padding: 2em;
+    border-radius: 12px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.15);
+    margin: 2em 0;
+}
+
+.highlight-box h3 {
+    color: white;
+    border-bottom: 2px solid rgba(255,255,255,0.3);
+    margin-top: 0;
+}
+
+.highlight-box .grid > div {
+    background: rgba(255,255,255,0.1);
+    padding: 1.5em;
     border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    backdrop-filter: blur(10px);
+    transition: transform 0.3s ease, background 0.3s ease;
+}
+
+.highlight-box .grid > div:hover {
+    transform: translateY(-5px);
+    background: rgba(255,255,255,0.2);
+}
+
+/* Timeline */
+.timeline {
+    position: relative;
+    padding-left: 2em;
+    margin: 2em 0;
+}
+
+.timeline::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 3px;
+    background: linear-gradient(to bottom, #3498db, #9b59b6);
+}
+
+.timeline-item {
+    position: relative;
+    margin-bottom: 2em;
+    padding: 1.5em;
+    background: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-.education-item:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+.timeline-item::before {
+    content: '';
+    position: absolute;
+    left: -2.5em;
+    top: 1.5em;
+    width: 12px;
+    height: 12px;
+    background: #3498db;
+    border-radius: 50%;
+    border: 3px solid white;
+    box-shadow: 0 0 0 3px #3498db;
 }
 
-.education-item strong {
+.timeline-item:hover {
+    transform: translateX(5px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+/* Expertise Grid */
+.expertise-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5em;
+    margin: 2em 0;
+}
+
+.expertise-card {
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    padding: 2em;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.expertise-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+}
+
+.expertise-card h3 {
+    color: #2c3e50;
+    margin-top: 0;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 0.5em;
+}
+
+.expertise-card ul {
+    padding-left: 1.2em;
+    margin-bottom: 0;
+}
+
+/* Research Section */
+.research-section {
+    background: #f8f9fa;
+    border-left: 4px solid #3498db;
+    padding: 2em;
+    border-radius: 8px;
+    margin: 1.5em 0;
+}
+
+/* Skills Container */
+.skills-container {
+    background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%);
+    padding: 2em;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.skills-container strong {
+    color: #2c3e50;
     font-size: 1.1em;
+    display: block;
+    margin-top: 1em;
+}
+
+.skills-container strong:first-child {
+    margin-top: 0;
 }
 
 /* Grid for Research Interests */
@@ -75,8 +190,6 @@ a:hover {
     margin: 0;
     padding-left: 1.2em;
 }
-
-/* Tables */
 table {
     border-collapse: collapse;
     width: 100%;
@@ -167,15 +280,11 @@ hr {
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
-/* Profile image for jolla template */
-.about-entity .about-image {
-    margin-bottom: 1.5em;
-}
-
+/* Profile image for solana template */
 .about-entity .about-image img {
     border-radius: 50%;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-    border: 4px solid #fff;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.2);
+    border: 5px solid #fff;
 }
 
 /* About links styling */
@@ -185,22 +294,18 @@ hr {
 
 .about-link {
     margin: 0.5em;
-    padding: 0.5em 1em;
-    background-color: #3498db;
+    padding: 0.6em 1.2em;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white !important;
-    border-radius: 5px;
-    transition: background-color 0.3s ease;
+    border-radius: 25px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);
 }
 
 .about-link:hover {
-    background-color: #2980b9;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.5);
     text-decoration: none !important;
-}
-
-/* Emoji and icon styling */
-h2:has(+ *) {
-    display: flex;
-    align-items: center;
 }
 
 /* Responsive design */
@@ -221,8 +326,16 @@ h2:has(+ *) {
         padding: 8px 10px;
     }
     
-    .grid {
+    .expertise-grid {
         grid-template-columns: 1fr;
+    }
+    
+    .timeline {
+        padding-left: 1.5em;
+    }
+    
+    .highlight-box {
+        padding: 1.5em;
     }
     
     .education-item {

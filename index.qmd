@@ -1,7 +1,7 @@
 ---
 title: "Ankur Gupta"
 about:
-    template: jolla
+    template: solana
     image: img/profile.png
     links:
         - icon: linkedin
@@ -16,85 +16,134 @@ about:
 comments: false
 ---
 
-::: {.column-page}
+## Hi, I'm Ankur! 👋
 
-## About Me
+Ph.D. Scholar in **Electrical Engineering** at **IIT Bombay**, working at the intersection of **VLSI design** and **machine learning hardware**. I design efficient on-chip classifiers for neural applications, with a focus on biomedical signal processing and closed-loop neuromodulation systems.
 
-Ph.D. Scholar in **Electrical Engineering** at **Indian Institute of Technology, Bombay**, specializing in **Integrated Circuits and Systems (EE6)**. My research focuses on developing resource-efficient on-chip classifiers for neural applications, with emphasis on seizure detection and closed-loop neuromodulation.
+---
+
+::: {.highlight-box}
+### 🎯 Research Highlights
+
+::: {.grid}
+
+::: {.g-col-md-4 .g-col-12}
+**📝 Publications**
+
+2 conference papers (ISCAS 2026, APCCAS 2025)
+:::
+
+::: {.g-col-md-4 .g-col-12}
+**🔬 Research Focus**
+
+Neural hardware accelerators & ASIC design
+:::
+
+::: {.g-col-md-4 .g-col-12}
+**💡 Open Source**
+
+Contributor to Fairchem & eSim projects
+:::
+
+:::
+:::
 
 ---
 
 ## 🎓 Education
 
-::: {.education-item}
-**Ph.D. in Electrical Engineering** | IIT Bombay | *2023-2027*
-
-Specialization: Integrated Circuits and Systems
+::: {.timeline}
+::: {.timeline-item}
+**Ph.D. in Electrical Engineering** • IIT Bombay  
+*Integrated Circuits and Systems* | 2023-2027
 :::
 
-::: {.education-item}
-**M.Tech in Electrical Engineering** | NIT Rourkela | *2020-2022*
+::: {.timeline-item}
+**M.Tech in Electrical Engineering** • NIT Rourkela  
+*Specialization in VLSI* | 2020-2022
 :::
 
-::: {.education-item}
-**B.Tech** | ITM Gwalior, RGPV Bhopal | *2014-2018*
+::: {.timeline-item}
+**B.Tech in Electronics** • ITM Gwalior  
+*RGPV Bhopal* | 2014-2018
+:::
 :::
 
 ---
 
-## 🔬 Research Interests
+## 🔬 Research Expertise
 
-:::: {.grid}
-
-::: {.g-col-6}
-- Digital VLSI Design
-- Processor Design
-- Physical Design
+::: {.expertise-grid}
+::: {.expertise-card}
+### Digital Design
+- RTL Design & Verification
+- Processor Architecture
+- Hardware Description Languages
 :::
 
-::: {.g-col-6}
-- Design for Test (DFT)
-- FPGA Based Acceleration
-- Neural Hardware Accelerators
+::: {.expertise-card}
+### Physical Design
+- Synthesis & Place-and-Route
+- Timing Analysis & Optimization
+- RTL-to-GDSII Flow
 :::
 
-::::
+::: {.expertise-card}
+### ML Hardware
+- Neural Network Accelerators
+- On-chip Learning Systems
+- Low-power Architectures
+:::
+
+::: {.expertise-card}
+### FPGA & SoC
+- FPGA Prototyping
+- System-on-Chip Design
+- Hardware-Software Co-design
+:::
+:::
 
 ---
 
 ## 📚 Current Research
 
 ### On-Chip Resource Efficient Classifiers for Neural Applications
-*Ph.D. Thesis | Guide: Prof. Laxmeesha Somappa*
+*Ph.D. Dissertation • Advisor: Prof. Laxmeesha Somappa*
 
-**Completed Work:**
+::: {.research-section}
+**Key Achievements:**
 
-- ✅ Designed **16-channel logistic regression-based on-chip Seizure Detector** with online retraining for adaptive closed-loop neuromodulation
-- ✅ Developed **shared multiply-accumulate (MAC) architecture** reducing area and power while maintaining real-time throughput
-- ✅ Completed full **RTL-to-GDSII flow** including synthesis, place-and-route, and sign-off
+- ✅ Designed **16-channel on-chip seizure detector** with adaptive online learning
+- ✅ Developed **resource-efficient MAC architecture** for real-time neural inference
+- ✅ Completed full **RTL-to-GDSII implementation** with successful tape-out readiness
 
-**Ongoing Work:**
+**Current Work:**
 
-- 🔄 Exploring **neural network architectures** for biomedical signal processing applications
-- 🔄 Developing **hardware accelerators** for machine learning inference
-- 🔄 Investigating **processor-accelerator integration** for flexible neural network deployment
-- 🔄 Working on **ASIC design methodologies** for advanced technology nodes
-
----
-
-## 💻 Technical Skills
-
-**Tools:** Cadence (Genus, Innovus, Xcelium, Virtuoso), Xilinx Vivado, Altera Quartus Prime, OpenLane, Yosys, ModelSim, Magic, Ngspice, LTspice, GTKWave, MATLAB, LaTeX
-
-**Programming:** Verilog, VHDL, SystemC, C/C++, Python, TCL, Bash, Makefile
-
-**Hardware:** PYNQ-Z2, Nexys A7, Raspberry Pi, ESP32, Atmega328p, TM4C123
-
----
-
-## 🎯 Interests
-
-Swimming • Reading • Rubik's Cube • Bonsai • Trekking • Movies
-
+- 🔄 Architecting **scalable neural network accelerators** for biomedical applications
+- 🔄 Exploring **hardware-software co-design** for flexible ML inference
+- 🔄 Developing **energy-efficient computing** solutions for edge AI
 :::
+
+---
+
+## 💻 Technical Proficiency
+
+::: {.skills-container}
+**EDA Tools**  
+Cadence Suite (Genus, Innovus, Xcelium, Virtuoso) • Synopsys Tools • Xilinx Vivado • OpenLane • ModelSim
+
+**HDL & Programming**  
+Verilog • VHDL • SystemC • C/C++ • Python • TCL • Bash
+
+**Platforms**  
+PYNQ-Z2 • Nexys A7 • Raspberry Pi • ARM Cortex-M • RISC-V
+:::
+
+---
+
+## 🌟 Beyond Research
+
+When I'm not designing circuits, you'll find me:
+
+🏊 Swimming • 📚 Reading • 🧩 Solving Rubik's Cubes • 🌳 Tending Bonsai • ⛰️ Trekking • 🎬 Watching Films
 
