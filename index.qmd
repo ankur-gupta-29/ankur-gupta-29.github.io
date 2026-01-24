@@ -75,10 +75,10 @@ Specialization: Integrated Circuits and Systems
 
 **Ongoing Work:**
 
-- 🔄 Designing lightweight **CNN architecture** for patient-independent Seizure Detection
-- 🔄 Modeling hardware accelerator architectures using **SystemC**
-- 🔄 Developing **scalable CNN accelerator** with PicoRV32 RISC-V processor integration
-- 🔄 Planning **RTL-to-GDSII flow for TSMC 65nm** node tape-out
+- 🔄 Exploring **neural network architectures** for biomedical signal processing applications
+- 🔄 Developing **hardware accelerators** for machine learning inference
+- 🔄 Investigating **processor-accelerator integration** for flexible neural network deployment
+- 🔄 Working on **ASIC design methodologies** for advanced technology nodes
 
 ---
 
