@@ -1,0 +1,27 @@
+---
+title: "ASIC Design Project"
+date: "2025-12-01"
+categories: [ASIC, VLSI, Design]
+description: "Comprehensive ASIC design project documentation and resources"
+---
+
+## ASIC Design Project
+
+This project covers comprehensive ASIC design methodologies, tools, and best practices.
+
+**[ASIC Design Project →](https://ankur-gupta-29.github.io/ASIC-Design)**
+
+*Note: Full documentation coming soon!*
+
+## Topics Covered
+
+- RTL Design
+- Synthesis
+- Physical Design
+- Verification
+- Design for Test (DFT)
+- ASIC Design Flow
+
+---
+
+*Detailed documentation, tutorials, and resources will be available soon.*
