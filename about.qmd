@@ -6,7 +6,7 @@ title: "About"
 
 - **Published a paper** titled *"A Comparative Study of Adaptive Channel Selection for Resource-Constrained On-Chip Seizure Detection"* at the **IEEE Asia Pacific Conference on Circuits and Systems**, Busan, South Korea, 2025
 
-- **Manuscript under review:** *"A 16-Channel Rapid On-Chip Seizure Classifier with Online Re-Training for Closed-Loop Neuromodulation"*, submitted to **IEEE International Symposium on Circuits and Systems (ISCAS) 2026**
+- **Published a paper** titled *"A 16-Channel Rapid On-Chip Seizure Classifier with Online Re-Training for Closed-Loop Neuromodulation"*, submitted to **IEEE International Symposium on Circuits and Systems (ISCAS) 2026**
 
 - Secured **First Runner-Up** in the **Smart India Hackathon 2017** by developing a Wheelchair control system using EOG signals for individuals with disabilities
 
