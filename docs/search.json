@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "Ankur Gupta",
     "section": "",
-    "text": "Ph.D. Scholar in Electrical Engineering at Indian Institute of Technology, Bombay, specializing in Integrated Circuits and Systems (EE6). My research focuses on developing resource-efficient on-chip classifiers for neural applications, with emphasis on seizure detection and closed-loop neuromodulation."
+    "text": "Ph.D. Scholar in Electrical Engineering at Indian Institute of Technology, Bombay, specializing in Integrated Circuits and Systems (EE6). My research focuses on developing resource-efficient on-chip classifiers for neural applications, with emphasis on seizure detection and closed-loop neuromodulation.\n\n\n\n\n\nPh.D. in Electrical Engineering | IIT Bombay | 2023-2027\nSpecialization: Integrated Circuits and Systems\n\n\nM.Tech in Electrical Engineering | NIT Rourkela | 2020-2022\n\n\nB.Tech | ITM Gwalior, RGPV Bhopal | 2014-2018\n\n\n\n\n\n\n\n\nDigital VLSI Design\nProcessor Design\nPhysical Design\n\n\n\n\nDesign for Test (DFT)\nFPGA Based Acceleration\nNeural Hardware Accelerators\n\n\n\n\n\n\n\n\n\nPh.D. Thesis | Guide: Prof. Laxmeesha Somappa\nCompleted Work:\n\n✅ Designed 16-channel logistic regression-based on-chip Seizure Detector with online retraining for adaptive closed-loop neuromodulation\n✅ Developed shared multiply-accumulate (MAC) architecture reducing area and power while maintaining real-time throughput\n✅ Completed full RTL-to-GDSII flow including synthesis, place-and-route, and sign-off\n\nOngoing Work:\n\n🔄 Designing lightweight CNN architecture for patient-independent Seizure Detection\n🔄 Modeling hardware accelerator architectures using SystemC\n🔄 Developing scalable CNN accelerator with PicoRV32 RISC-V processor integration\n🔄 Planning RTL-to-GDSII flow for TSMC 65nm node tape-out\n\n\n\n\n\n\nTools: Cadence (Genus, Innovus, Xcelium, Virtuoso), Xilinx Vivado, Altera Quartus Prime, OpenLane, Yosys, ModelSim, Magic, Ngspice, LTspice, GTKWave, MATLAB, LaTeX\nProgramming: Verilog, VHDL, SystemC, C/C++, Python, TCL, Bash, Makefile\nHardware: PYNQ-Z2, Nexys A7, Raspberry Pi, ESP32, Atmega328p, TM4C123\n\n\n\n\nSwimming • Reading • Rubik’s Cube • Bonsai • Trekking • Movies"
   },
   {
     "objectID": "index.html#about-me",
@@ -38,36 +38,36 @@
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Ankur Gupta",
-    "section": "Education",
-    "text": "Education\n\n\n\nDegree\nInstitution\nUniversity\nYear\n\n\n\n\nPh.D.\nIIT Bombay\nIIT Bombay\n2023-2027\n\n\nM.Tech\nNIT Rourkela\nNIT Rourkela\n2020-2022\n\n\nB.Tech\nITM Gwalior\nRGPV Bhopal\n2014-2018\n\n\nIntermediate/+2\nSVM Inter College\nUP Board\n2011-2013"
+    "section": "",
+    "text": "Ph.D. in Electrical Engineering | IIT Bombay | 2023-2027\nSpecialization: Integrated Circuits and Systems\n\n\nM.Tech in Electrical Engineering | NIT Rourkela | 2020-2022\n\n\nB.Tech | ITM Gwalior, RGPV Bhopal | 2014-2018"
   },
   {
-    "objectID": "index.html#areas-of-interest",
-    "href": "index.html#areas-of-interest",
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
     "title": "Ankur Gupta",
-    "section": "Areas of Interest",
-    "text": "Areas of Interest\n\nDigital VLSI Design | Processor Design | Physical Design\nDFT | FPGA Based Acceleration"
+    "section": "",
+    "text": "Digital VLSI Design\nProcessor Design\nPhysical Design\n\n\n\n\nDesign for Test (DFT)\nFPGA Based Acceleration\nNeural Hardware Accelerators"
   },
   {
-    "objectID": "index.html#research-work",
-    "href": "index.html#research-work",
+    "objectID": "index.html#current-research",
+    "href": "index.html#current-research",
     "title": "Ankur Gupta",
-    "section": "Research Work",
-    "text": "Research Work\n\nOn-Chip Resource Efficient Classifiers for Neural Application | PhD Thesis\nGuide: Prof. Laxmeesha Somappa, Electrical Engineering, IIT Bombay (Jan’23 - present)\nCompleted Work:\n\nDesigned and architected a 16-channel logistic regression–based on-chip patient specific Seizure Detector with an online retraining unit to enable adaptive closed-loop neuromodulation\nDeveloped a shared multiply–accumulate (MAC) architecture to reduce area and power while maintaining real-time throughput\nCompleted the full RTL-to-GDSII flow, including RTL design, functional verification, synthesis, place-and-route, and sign-off\n\nOngoing and Future Work:\n\nDesigning and training a lightweight CNN architecture for patient-independent Seizure Detection\nExploring and modeling different hardware accelerator architectures for lightweight CNN models using SystemC\nDeveloping a scalable CNN accelerator capable of processing arbitrary CNN layers by integrating a PicoRV32 RISC-V processor\nArchitecting the PicoRV32-based control subsystem to manage the accelerator datapath and memory system\nExecuting the complete RTL-to-GDSII physical design flow for TSMC 65nm node\n\n\n\nImplementation of DFT in Quantum Computer | M.Tech\nGuide: Prof. Supratim Gupta, Electrical Engineering, NIT Rourkela (July’21 - June’22)\n\nDeveloped an FPGA-based emulator for quantum computing, enabling the emulation of quantum algorithms\nApplied Discrete Fourier Transform (DFT)-based methods for quantum computation"
+    "section": "",
+    "text": "Ph.D. Thesis | Guide: Prof. Laxmeesha Somappa\nCompleted Work:\n\n✅ Designed 16-channel logistic regression-based on-chip Seizure Detector with online retraining for adaptive closed-loop neuromodulation\n✅ Developed shared multiply-accumulate (MAC) architecture reducing area and power while maintaining real-time throughput\n✅ Completed full RTL-to-GDSII flow including synthesis, place-and-route, and sign-off\n\nOngoing Work:\n\n🔄 Designing lightweight CNN architecture for patient-independent Seizure Detection\n🔄 Modeling hardware accelerator architectures using SystemC\n🔄 Developing scalable CNN accelerator with PicoRV32 RISC-V processor integration\n🔄 Planning RTL-to-GDSII flow for TSMC 65nm node tape-out"
   },
   {
     "objectID": "index.html#technical-skills",
     "href": "index.html#technical-skills",
     "title": "Ankur Gupta",
-    "section": "Technical Skills",
-    "text": "Technical Skills\nTools: Altera Quartus Prime, Xilinx Vivado, ModelSim, OpenLane, Yosys, Cadence Xcelium, Genus, Innovus, Virtuoso, Ngspice, LTspice, Icarus Verilog, GTKWave, CMU-BDD, Linux OS, MiniSAT, MATLAB, Keil, Proteus, Xschem, Magic, LaTeX\nHardware Platforms: PYNQ-Z2 Board, Nexys A7, Raspberry Pi, Atmega328p Micro-controller, TM4GH123 Micro-controller, ESP32 Micro-controller\nProgramming Languages: Verilog, VHDL, C, C++, Python, TCL, BASH, SystemC, Makefile"
+    "section": "",
+    "text": "Tools: Cadence (Genus, Innovus, Xcelium, Virtuoso), Xilinx Vivado, Altera Quartus Prime, OpenLane, Yosys, ModelSim, Magic, Ngspice, LTspice, GTKWave, MATLAB, LaTeX\nProgramming: Verilog, VHDL, SystemC, C/C++, Python, TCL, Bash, Makefile\nHardware: PYNQ-Z2, Nexys A7, Raspberry Pi, ESP32, Atmega328p, TM4C123"
   },
   {
-    "objectID": "index.html#hobbies-interests",
-    "href": "index.html#hobbies-interests",
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
     "title": "Ankur Gupta",
-    "section": "Hobbies & Interests",
-    "text": "Hobbies & Interests\nSwimming • Book Reading • Rubik’s Cube Solving • Bonsai • Trekking • Watching Movies"
+    "section": "",
+    "text": "Swimming • Reading • Rubik’s Cube • Bonsai • Trekking • Movies"
   },
   {
     "objectID": "about.html",

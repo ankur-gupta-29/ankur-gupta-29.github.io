@@ -1,7 +1,7 @@
 ---
 title: "Ankur Gupta"
 about:
-    template: trestles
+    template: jolla
     image: img/profile.png
     links:
         - icon: linkedin
@@ -16,58 +16,85 @@ about:
 comments: false
 ---
 
+::: {.column-page}
+
 ## About Me
 
-Ph.D. Scholar in Electrical Engineering at **Indian Institute of Technology, Bombay**, specializing in Integrated Circuits and Systems (EE6). My research focuses on developing **resource-efficient on-chip classifiers for neural applications**, with emphasis on seizure detection and closed-loop neuromodulation.
+Ph.D. Scholar in **Electrical Engineering** at **Indian Institute of Technology, Bombay**, specializing in **Integrated Circuits and Systems (EE6)**. My research focuses on developing resource-efficient on-chip classifiers for neural applications, with emphasis on seizure detection and closed-loop neuromodulation.
 
-## Education
+---
 
-| Degree | Institution | University | Year |
-|--------|-------------|------------|------|
-| **Ph.D.** | IIT Bombay | IIT Bombay | 2023-2027 |
-| **M.Tech** | NIT Rourkela | NIT Rourkela | 2020-2022 |
-| **B.Tech** | ITM Gwalior | RGPV Bhopal | 2014-2018 |
-| **Intermediate/+2** | SVM Inter College | UP Board | 2011-2013 |
+## 🎓 Education
 
-## Areas of Interest
+::: {.education-item}
+**Ph.D. in Electrical Engineering** | IIT Bombay | *2023-2027*
 
-- **Digital VLSI Design** | **Processor Design** | **Physical Design**
-- **DFT** | **FPGA Based Acceleration**
+Specialization: Integrated Circuits and Systems
+:::
 
-## Research Work
+::: {.education-item}
+**M.Tech in Electrical Engineering** | NIT Rourkela | *2020-2022*
+:::
 
-### On-Chip Resource Efficient Classifiers for Neural Application | PhD Thesis
-*Guide: Prof. Laxmeesha Somappa, Electrical Engineering, IIT Bombay (Jan'23 - present)*
+::: {.education-item}
+**B.Tech** | ITM Gwalior, RGPV Bhopal | *2014-2018*
+:::
+
+---
+
+## 🔬 Research Interests
+
+:::: {.grid}
+
+::: {.g-col-6}
+- Digital VLSI Design
+- Processor Design
+- Physical Design
+:::
+
+::: {.g-col-6}
+- Design for Test (DFT)
+- FPGA Based Acceleration
+- Neural Hardware Accelerators
+:::
+
+::::
+
+---
+
+## 📚 Current Research
+
+### On-Chip Resource Efficient Classifiers for Neural Applications
+*Ph.D. Thesis | Guide: Prof. Laxmeesha Somappa*
 
 **Completed Work:**
 
-- Designed and architected a **16-channel logistic regression–based on-chip patient specific Seizure Detector** with an online retraining unit to enable adaptive closed-loop neuromodulation
-- Developed a **shared multiply–accumulate (MAC) architecture** to reduce area and power while maintaining real-time throughput
-- Completed the full **RTL-to-GDSII flow**, including RTL design, functional verification, synthesis, place-and-route, and sign-off
+- ✅ Designed **16-channel logistic regression-based on-chip Seizure Detector** with online retraining for adaptive closed-loop neuromodulation
+- ✅ Developed **shared multiply-accumulate (MAC) architecture** reducing area and power while maintaining real-time throughput
+- ✅ Completed full **RTL-to-GDSII flow** including synthesis, place-and-route, and sign-off
 
-**Ongoing and Future Work:**
+**Ongoing Work:**
 
-- Designing and training a **lightweight CNN architecture** for patient-independent Seizure Detection
-- Exploring and modeling different **hardware accelerator architectures** for lightweight CNN models using SystemC
-- Developing a **scalable CNN accelerator** capable of processing arbitrary CNN layers by integrating a PicoRV32 RISC-V processor
-- Architecting the PicoRV32-based control subsystem to manage the accelerator datapath and memory system
-- Executing the complete **RTL-to-GDSII physical design flow for TSMC 65nm node**
+- 🔄 Designing lightweight **CNN architecture** for patient-independent Seizure Detection
+- 🔄 Modeling hardware accelerator architectures using **SystemC**
+- 🔄 Developing **scalable CNN accelerator** with PicoRV32 RISC-V processor integration
+- 🔄 Planning **RTL-to-GDSII flow for TSMC 65nm** node tape-out
 
-### Implementation of DFT in Quantum Computer | M.Tech
-*Guide: Prof. Supratim Gupta, Electrical Engineering, NIT Rourkela (July'21 - June'22)*
+---
 
-- Developed an **FPGA-based emulator for quantum computing**, enabling the emulation of quantum algorithms
-- Applied **Discrete Fourier Transform (DFT)-based methods** for quantum computation
+## 💻 Technical Skills
 
-## Technical Skills
+**Tools:** Cadence (Genus, Innovus, Xcelium, Virtuoso), Xilinx Vivado, Altera Quartus Prime, OpenLane, Yosys, ModelSim, Magic, Ngspice, LTspice, GTKWave, MATLAB, LaTeX
 
-**Tools:** Altera Quartus Prime, Xilinx Vivado, ModelSim, OpenLane, Yosys, Cadence Xcelium, Genus, Innovus, Virtuoso, Ngspice, LTspice, Icarus Verilog, GTKWave, CMU-BDD, Linux OS, MiniSAT, MATLAB, Keil, Proteus, Xschem, Magic, LaTeX
+**Programming:** Verilog, VHDL, SystemC, C/C++, Python, TCL, Bash, Makefile
 
-**Hardware Platforms:** PYNQ-Z2 Board, Nexys A7, Raspberry Pi, Atmega328p Micro-controller, TM4GH123 Micro-controller, ESP32 Micro-controller
+**Hardware:** PYNQ-Z2, Nexys A7, Raspberry Pi, ESP32, Atmega328p, TM4C123
 
-**Programming Languages:** Verilog, VHDL, C, C++, Python, TCL, BASH, SystemC, Makefile
+---
 
-## Hobbies & Interests
+## 🎯 Interests
 
-Swimming • Book Reading • Rubik's Cube Solving • Bonsai • Trekking • Watching Movies
+Swimming • Reading • Rubik's Cube • Bonsai • Trekking • Movies
+
+:::
 
