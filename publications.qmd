@@ -2,4 +2,38 @@
 title: "Publications"
 ---
 
-About this site
+## Conference Papers
+
+::: {.publication}
+**A 16-Channel Rapid On-Chip Seizure Classifier with Online Re-Training for Closed-Loop Neuromodulation**
+
+*Ankur Gupta*, Laxmeesha Somappa
+
+**IEEE International Symposium on Circuits and Systems (ISCAS)**, 2026
+
+[Paper Link](#) | [Code](#)
+:::
+
+::: {.publication}
+**A Comparative Study of Adaptive Channel Selection for Resource-Constrained On-Chip Seizure Detection**
+
+*Ankur Gupta*, Laxmeesha Somappa
+
+**IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)**, Busan, South Korea, 2025
+
+[Paper Link](#) | [Code](#)
+:::
+
+## Open Source Contributions
+
+::: {.contribution}
+**facebookresearch/Fairchem**
+- Contributed bug fixes to the open-source repository
+- [GitHub Repository](https://github.com/facebookresearch/fairchem)
+:::
+
+::: {.contribution}
+**FOSSEE/eSim**
+- Added automation scripts to enable seamless installation of open-source PDKs via Volare
+- [GitHub Repository](https://github.com/FOSSEE/eSim)
+:::

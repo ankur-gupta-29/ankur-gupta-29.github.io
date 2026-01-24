@@ -22,12 +22,12 @@ Ph.D. Scholar in Electrical Engineering at **Indian Institute of Technology, Bom
 
 ## Education
 
-| Degree | Institution | University | Year | CPI/% |
-|--------|-------------|------------|------|-------|
-| **Ph.D.** | IIT Bombay | IIT Bombay | 2023-2027 | 8.65 |
-| **M.Tech** | NIT Rourkela | NIT Rourkela | 2020-2022 | 8.42 |
-| **B.Tech** | ITM Gwalior | RGPV Bhopal | 2014-2018 | 7.04 |
-| **Intermediate/+2** | SVM Inter College | UP Board | 2011-2013 | 76.2 |
+| Degree | Institution | University | Year |
+|--------|-------------|------------|------|
+| **Ph.D.** | IIT Bombay | IIT Bombay | 2023-2027 |
+| **M.Tech** | NIT Rourkela | NIT Rourkela | 2020-2022 |
+| **B.Tech** | ITM Gwalior | RGPV Bhopal | 2014-2018 |
+| **Intermediate/+2** | SVM Inter College | UP Board | 2011-2013 |
 
 ## Areas of Interest
 

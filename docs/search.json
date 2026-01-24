@@ -4,7 +4,21 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "About this site"
+    "text": "A 16-Channel Rapid On-Chip Seizure Classifier with Online Re-Training for Closed-Loop Neuromodulation\nAnkur Gupta, Laxmeesha Somappa\nIEEE International Symposium on Circuits and Systems (ISCAS), 2026\nPaper Link | Code\n\n\nA Comparative Study of Adaptive Channel Selection for Resource-Constrained On-Chip Seizure Detection\nAnkur Gupta, Laxmeesha Somappa\nIEEE Asia Pacific Conference on Circuits and Systems (APCCAS), Busan, South Korea, 2025\nPaper Link | Code"
+  },
+  {
+    "objectID": "publications.html#conference-papers",
+    "href": "publications.html#conference-papers",
+    "title": "Publications",
+    "section": "",
+    "text": "A 16-Channel Rapid On-Chip Seizure Classifier with Online Re-Training for Closed-Loop Neuromodulation\nAnkur Gupta, Laxmeesha Somappa\nIEEE International Symposium on Circuits and Systems (ISCAS), 2026\nPaper Link | Code\n\n\nA Comparative Study of Adaptive Channel Selection for Resource-Constrained On-Chip Seizure Detection\nAnkur Gupta, Laxmeesha Somappa\nIEEE Asia Pacific Conference on Circuits and Systems (APCCAS), Busan, South Korea, 2025\nPaper Link | Code"
+  },
+  {
+    "objectID": "publications.html#open-source-contributions",
+    "href": "publications.html#open-source-contributions",
+    "title": "Publications",
+    "section": "Open Source Contributions",
+    "text": "Open Source Contributions\n\nfacebookresearch/Fairchem - Contributed bug fixes to the open-source repository - GitHub Repository\n\n\nFOSSEE/eSim - Added automation scripts to enable seamless installation of open-source PDKs via Volare - GitHub Repository"
   },
   {
     "objectID": "index.html",
@@ -25,7 +39,7 @@
     "href": "index.html#education",
     "title": "Ankur Gupta",
     "section": "Education",
-    "text": "Education\n\n\n\n\n\n\n\n\n\n\nDegree\nInstitution\nUniversity\nYear\nCPI/%\n\n\n\n\nPh.D.\nIIT Bombay\nIIT Bombay\n2023-2027\n8.65\n\n\nM.Tech\nNIT Rourkela\nNIT Rourkela\n2020-2022\n8.42\n\n\nB.Tech\nITM Gwalior\nRGPV Bhopal\n2014-2018\n7.04\n\n\nIntermediate/+2\nSVM Inter College\nUP Board\n2011-2013\n76.2"
+    "text": "Education\n\n\n\nDegree\nInstitution\nUniversity\nYear\n\n\n\n\nPh.D.\nIIT Bombay\nIIT Bombay\n2023-2027\n\n\nM.Tech\nNIT Rourkela\nNIT Rourkela\n2020-2022\n\n\nB.Tech\nITM Gwalior\nRGPV Bhopal\n2014-2018\n\n\nIntermediate/+2\nSVM Inter College\nUP Board\n2011-2013"
   },
   {
     "objectID": "index.html#areas-of-interest",
