@@ -2,19 +2,72 @@
 title: "Ankur Gupta"
 about:
     template: trestles
+    image: img/profile.png
     links:
         - icon: linkedin
           text: LinkedIn
           url: https://linkedin.com/in/ankur-gupta-520094141
-        - icon: twitter
-          text: Twitter
-          url: https://linkedin.com/in/ankur-gupta-520094141
         - icon: github
           text: Github
           url: https://github.com/ankur-gupta-29
-image: img/profile.png
+        - icon: envelope
+          text: Email
+          url: mailto:ankur_gupta_29@outlook.com
 comments: false
 ---
 
-This is a Quarto website.
+## About Me
+
+Ph.D. Scholar in Electrical Engineering at **Indian Institute of Technology, Bombay**, specializing in Integrated Circuits and Systems (EE6). My research focuses on developing **resource-efficient on-chip classifiers for neural applications**, with emphasis on seizure detection and closed-loop neuromodulation.
+
+## Education
+
+| Degree | Institution | University | Year | CPI/% |
+|--------|-------------|------------|------|-------|
+| **Ph.D.** | IIT Bombay | IIT Bombay | 2023-2027 | 8.65 |
+| **M.Tech** | NIT Rourkela | NIT Rourkela | 2020-2022 | 8.42 |
+| **B.Tech** | ITM Gwalior | RGPV Bhopal | 2014-2018 | 7.04 |
+| **Intermediate/+2** | SVM Inter College | UP Board | 2011-2013 | 76.2 |
+
+## Areas of Interest
+
+- **Digital VLSI Design** | **Processor Design** | **Physical Design**
+- **DFT** | **FPGA Based Acceleration**
+
+## Research Work
+
+### On-Chip Resource Efficient Classifiers for Neural Application | PhD Thesis
+*Guide: Prof. Laxmeesha Somappa, Electrical Engineering, IIT Bombay (Jan'23 - present)*
+
+**Completed Work:**
+
+- Designed and architected a **16-channel logistic regression–based on-chip patient specific Seizure Detector** with an online retraining unit to enable adaptive closed-loop neuromodulation
+- Developed a **shared multiply–accumulate (MAC) architecture** to reduce area and power while maintaining real-time throughput
+- Completed the full **RTL-to-GDSII flow**, including RTL design, functional verification, synthesis, place-and-route, and sign-off
+
+**Ongoing and Future Work:**
+
+- Designing and training a **lightweight CNN architecture** for patient-independent Seizure Detection
+- Exploring and modeling different **hardware accelerator architectures** for lightweight CNN models using SystemC
+- Developing a **scalable CNN accelerator** capable of processing arbitrary CNN layers by integrating a PicoRV32 RISC-V processor
+- Architecting the PicoRV32-based control subsystem to manage the accelerator datapath and memory system
+- Executing the complete **RTL-to-GDSII physical design flow for TSMC 65nm node**
+
+### Implementation of DFT in Quantum Computer | M.Tech
+*Guide: Prof. Supratim Gupta, Electrical Engineering, NIT Rourkela (July'21 - June'22)*
+
+- Developed an **FPGA-based emulator for quantum computing**, enabling the emulation of quantum algorithms
+- Applied **Discrete Fourier Transform (DFT)-based methods** for quantum computation
+
+## Technical Skills
+
+**Tools:** Altera Quartus Prime, Xilinx Vivado, ModelSim, OpenLane, Yosys, Cadence Xcelium, Genus, Innovus, Virtuoso, Ngspice, LTspice, Icarus Verilog, GTKWave, CMU-BDD, Linux OS, MiniSAT, MATLAB, Keil, Proteus, Xschem, Magic, LaTeX
+
+**Hardware Platforms:** PYNQ-Z2 Board, Nexys A7, Raspberry Pi, Atmega328p Micro-controller, TM4GH123 Micro-controller, ESP32 Micro-controller
+
+**Programming Languages:** Verilog, VHDL, C, C++, Python, TCL, BASH, SystemC, Makefile
+
+## Hobbies & Interests
+
+Swimming • Book Reading • Rubik's Cube Solving • Bonsai • Trekking • Watching Movies
 

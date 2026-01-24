@@ -2,4 +2,68 @@
 title: "About"
 ---
 
-About this site
+## Scholastic Achievements
+
+- **Published a paper** titled *"A Comparative Study of Adaptive Channel Selection for Resource-Constrained On-Chip Seizure Detection"* at the **IEEE Asia Pacific Conference on Circuits and Systems**, Busan, South Korea, 2025
+
+- **Manuscript under review:** *"A 16-Channel Rapid On-Chip Seizure Classifier with Online Re-Training for Closed-Loop Neuromodulation"*, submitted to **IEEE International Symposium on Circuits and Systems (ISCAS) 2026**
+
+- Secured **First Runner-Up** in the **Smart India Hackathon 2017** by developing a Wheelchair control system using EOG signals for individuals with disabilities
+
+- Secured **First Prize** in a PID-Based Line Follower Competition organized by ITM Vadodara
+
+- Secured an **All India Rank 3492** in the **Graduate Aptitude Test in Engineering (GATE) 2020**
+
+- Contributed **bug fixes** to the open-source **facebookresearch/Fairchem** GitHub repository
+
+- Added **automation scripts** in **FOSSEE/eSim** GitHub repository to enable seamless installation of open-source PDKs via Volare
+
+## Key Academic Projects
+
+### MAC unit with SPI | Course Project
+*Course: Hardware Description | Prof. Sachin Patkar (Nov'23)*
+
+- Designed a **SPI Protocol for MAC operation** using MAC unit
+- MAC unit designed using **Dadda multiplier with Brent-Kung adder**
+- Utilized Verilog HDL for design using Vivado and conducted verification with a specific testbench
+
+### Pattern Detection using Neural-Network on FPGA Pynq-z2 | Course Project
+*Course: Embedded Systems Design | Prof. Laxmeesha Somappa (Apr'23)*
+
+- Designed a **neural network accelerator** interfaced through AXI-Stream and controlled by a Zynq processor
+
+## Relevant Courses Taken
+
+- VLSI Design & VLSI Design Lab
+- Hardware Description
+- Testing and Verification
+- Introduction to Machine Learning
+- Embedded System Design
+
+## Work Experience
+
+### Associate Engineer | AFFINE
+*(Aug'22 - Dec'23)*
+
+- Contributed in **Data Visualization on Map project** using Google cloud VM with login system using USER-ID and OTP
+
+## Positions of Responsibility
+
+### Institute Teaching Assistant | IIT Bombay
+
+**Digital Circuits Lab** *(Aug'23 - present)*
+- Assisted students in writing and synthesizing VHDL code, and in testing designs on FPGA using JTAG, with verification against golden outputs
+
+**Embedded Systems Design** *(Jan'24 - present)*
+- Guided Embedded C and VHDL/Verilog, taught Code Composer Studio, Vivado and Vitis SDK, and designed practical assignments for evaluation
+
+**VLSI Design** *(Aug'24 - present)*
+- Delivered hands-on tutorials on Magic, ngspice, OpenLane, and Cadence using the SKY130/TSMC65 PDK, and developed practical assignments for students
+
+**VLSI Design LAB** *(Jan'25 - present)*
+- Conducted hands-on tutorials on Vivado covering ILA, VIO, and BRAM
+- Guided students in RISC-V processor implementation on FPGA
+- Demonstrated the RTL-to-GDS flow using Cadence and OpenLane
+
+### Institute Interview Coordinator | IIT Bombay
+*(Nov'25 - Dec'25)*

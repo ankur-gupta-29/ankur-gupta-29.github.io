@@ -11,14 +11,91 @@
     "href": "index.html",
     "title": "Ankur Gupta",
     "section": "",
-    "text": "This is a Quarto website."
+    "text": "Ph.D. Scholar in Electrical Engineering at Indian Institute of Technology, Bombay, specializing in Integrated Circuits and Systems (EE6). My research focuses on developing resource-efficient on-chip classifiers for neural applications, with emphasis on seizure detection and closed-loop neuromodulation."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Ankur Gupta",
+    "section": "",
+    "text": "Ph.D. Scholar in Electrical Engineering at Indian Institute of Technology, Bombay, specializing in Integrated Circuits and Systems (EE6). My research focuses on developing resource-efficient on-chip classifiers for neural applications, with emphasis on seizure detection and closed-loop neuromodulation."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Ankur Gupta",
+    "section": "Education",
+    "text": "Education\n\n\n\n\n\n\n\n\n\n\nDegree\nInstitution\nUniversity\nYear\nCPI/%\n\n\n\n\nPh.D.\nIIT Bombay\nIIT Bombay\n2023-2027\n8.65\n\n\nM.Tech\nNIT Rourkela\nNIT Rourkela\n2020-2022\n8.42\n\n\nB.Tech\nITM Gwalior\nRGPV Bhopal\n2014-2018\n7.04\n\n\nIntermediate/+2\nSVM Inter College\nUP Board\n2011-2013\n76.2"
+  },
+  {
+    "objectID": "index.html#areas-of-interest",
+    "href": "index.html#areas-of-interest",
+    "title": "Ankur Gupta",
+    "section": "Areas of Interest",
+    "text": "Areas of Interest\n\nDigital VLSI Design | Processor Design | Physical Design\nDFT | FPGA Based Acceleration"
+  },
+  {
+    "objectID": "index.html#research-work",
+    "href": "index.html#research-work",
+    "title": "Ankur Gupta",
+    "section": "Research Work",
+    "text": "Research Work\n\nOn-Chip Resource Efficient Classifiers for Neural Application | PhD Thesis\nGuide: Prof. Laxmeesha Somappa, Electrical Engineering, IIT Bombay (Jan’23 - present)\nCompleted Work:\n\nDesigned and architected a 16-channel logistic regression–based on-chip patient specific Seizure Detector with an online retraining unit to enable adaptive closed-loop neuromodulation\nDeveloped a shared multiply–accumulate (MAC) architecture to reduce area and power while maintaining real-time throughput\nCompleted the full RTL-to-GDSII flow, including RTL design, functional verification, synthesis, place-and-route, and sign-off\n\nOngoing and Future Work:\n\nDesigning and training a lightweight CNN architecture for patient-independent Seizure Detection\nExploring and modeling different hardware accelerator architectures for lightweight CNN models using SystemC\nDeveloping a scalable CNN accelerator capable of processing arbitrary CNN layers by integrating a PicoRV32 RISC-V processor\nArchitecting the PicoRV32-based control subsystem to manage the accelerator datapath and memory system\nExecuting the complete RTL-to-GDSII physical design flow for TSMC 65nm node\n\n\n\nImplementation of DFT in Quantum Computer | M.Tech\nGuide: Prof. Supratim Gupta, Electrical Engineering, NIT Rourkela (July’21 - June’22)\n\nDeveloped an FPGA-based emulator for quantum computing, enabling the emulation of quantum algorithms\nApplied Discrete Fourier Transform (DFT)-based methods for quantum computation"
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "Ankur Gupta",
+    "section": "Technical Skills",
+    "text": "Technical Skills\nTools: Altera Quartus Prime, Xilinx Vivado, ModelSim, OpenLane, Yosys, Cadence Xcelium, Genus, Innovus, Virtuoso, Ngspice, LTspice, Icarus Verilog, GTKWave, CMU-BDD, Linux OS, MiniSAT, MATLAB, Keil, Proteus, Xschem, Magic, LaTeX\nHardware Platforms: PYNQ-Z2 Board, Nexys A7, Raspberry Pi, Atmega328p Micro-controller, TM4GH123 Micro-controller, ESP32 Micro-controller\nProgramming Languages: Verilog, VHDL, C, C++, Python, TCL, BASH, SystemC, Makefile"
+  },
+  {
+    "objectID": "index.html#hobbies-interests",
+    "href": "index.html#hobbies-interests",
+    "title": "Ankur Gupta",
+    "section": "Hobbies & Interests",
+    "text": "Hobbies & Interests\nSwimming • Book Reading • Rubik’s Cube Solving • Bonsai • Trekking • Watching Movies"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "Published a paper titled “A Comparative Study of Adaptive Channel Selection for Resource-Constrained On-Chip Seizure Detection” at the IEEE Asia Pacific Conference on Circuits and Systems, Busan, South Korea, 2025\nManuscript under review: “A 16-Channel Rapid On-Chip Seizure Classifier with Online Re-Training for Closed-Loop Neuromodulation”, submitted to IEEE International Symposium on Circuits and Systems (ISCAS) 2026\nSecured First Runner-Up in the Smart India Hackathon 2017 by developing a Wheelchair control system using EOG signals for individuals with disabilities\nSecured First Prize in a PID-Based Line Follower Competition organized by ITM Vadodara\nSecured an All India Rank 3492 in the Graduate Aptitude Test in Engineering (GATE) 2020\nContributed bug fixes to the open-source facebookresearch/Fairchem GitHub repository\nAdded automation scripts in FOSSEE/eSim GitHub repository to enable seamless installation of open-source PDKs via Volare"
+  },
+  {
+    "objectID": "about.html#scholastic-achievements",
+    "href": "about.html#scholastic-achievements",
+    "title": "About",
+    "section": "",
+    "text": "Published a paper titled “A Comparative Study of Adaptive Channel Selection for Resource-Constrained On-Chip Seizure Detection” at the IEEE Asia Pacific Conference on Circuits and Systems, Busan, South Korea, 2025\nManuscript under review: “A 16-Channel Rapid On-Chip Seizure Classifier with Online Re-Training for Closed-Loop Neuromodulation”, submitted to IEEE International Symposium on Circuits and Systems (ISCAS) 2026\nSecured First Runner-Up in the Smart India Hackathon 2017 by developing a Wheelchair control system using EOG signals for individuals with disabilities\nSecured First Prize in a PID-Based Line Follower Competition organized by ITM Vadodara\nSecured an All India Rank 3492 in the Graduate Aptitude Test in Engineering (GATE) 2020\nContributed bug fixes to the open-source facebookresearch/Fairchem GitHub repository\nAdded automation scripts in FOSSEE/eSim GitHub repository to enable seamless installation of open-source PDKs via Volare"
+  },
+  {
+    "objectID": "about.html#key-academic-projects",
+    "href": "about.html#key-academic-projects",
+    "title": "About",
+    "section": "Key Academic Projects",
+    "text": "Key Academic Projects\n\nMAC unit with SPI | Course Project\nCourse: Hardware Description | Prof. Sachin Patkar (Nov’23)\n\nDesigned a SPI Protocol for MAC operation using MAC unit\nMAC unit designed using Dadda multiplier with Brent-Kung adder\nUtilized Verilog HDL for design using Vivado and conducted verification with a specific testbench\n\n\n\nPattern Detection using Neural-Network on FPGA Pynq-z2 | Course Project\nCourse: Embedded Systems Design | Prof. Laxmeesha Somappa (Apr’23)\n\nDesigned a neural network accelerator interfaced through AXI-Stream and controlled by a Zynq processor"
+  },
+  {
+    "objectID": "about.html#relevant-courses-taken",
+    "href": "about.html#relevant-courses-taken",
+    "title": "About",
+    "section": "Relevant Courses Taken",
+    "text": "Relevant Courses Taken\n\nVLSI Design & VLSI Design Lab\nHardware Description\nTesting and Verification\nIntroduction to Machine Learning\nEmbedded System Design"
+  },
+  {
+    "objectID": "about.html#work-experience",
+    "href": "about.html#work-experience",
+    "title": "About",
+    "section": "Work Experience",
+    "text": "Work Experience\n\nAssociate Engineer | AFFINE\n(Aug’22 - Dec’23)\n\nContributed in Data Visualization on Map project using Google cloud VM with login system using USER-ID and OTP"
+  },
+  {
+    "objectID": "about.html#positions-of-responsibility",
+    "href": "about.html#positions-of-responsibility",
+    "title": "About",
+    "section": "Positions of Responsibility",
+    "text": "Positions of Responsibility\n\nInstitute Teaching Assistant | IIT Bombay\nDigital Circuits Lab (Aug’23 - present) - Assisted students in writing and synthesizing VHDL code, and in testing designs on FPGA using JTAG, with verification against golden outputs\nEmbedded Systems Design (Jan’24 - present) - Guided Embedded C and VHDL/Verilog, taught Code Composer Studio, Vivado and Vitis SDK, and designed practical assignments for evaluation\nVLSI Design (Aug’24 - present) - Delivered hands-on tutorials on Magic, ngspice, OpenLane, and Cadence using the SKY130/TSMC65 PDK, and developed practical assignments for students\nVLSI Design LAB (Jan’25 - present) - Conducted hands-on tutorials on Vivado covering ILA, VIO, and BRAM - Guided students in RISC-V processor implementation on FPGA - Demonstrated the RTL-to-GDS flow using Cadence and OpenLane\n\n\nInstitute Interview Coordinator | IIT Bombay\n(Nov’25 - Dec’25)"
   },
   {
     "objectID": "linux_server.html",
