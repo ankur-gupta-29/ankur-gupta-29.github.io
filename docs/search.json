@@ -46,49 +46,49 @@
     "href": "index.html",
     "title": "Ankur Gupta",
     "section": "",
-    "text": "Ph.D. Scholar in Electrical Engineering at IIT Bombay, working at the intersection of VLSI design and machine learning hardware. I design efficient on-chip classifiers for neural applications, with a focus on biomedical signal processing and closed-loop neuromodulation systems.\n\n\n\n\n\n📝 Publications\n2 conference papers (ISCAS 2026, APCCAS 2025)\n\n\n🔬 Research Focus\nNeural hardware accelerators & ASIC design\n\n\n💡 Open Source\nContributor to Fairchem & eSim projects"
+    "text": "Ph.D. Scholar in Electrical Engineering at Indian Institute of Technology, Bombay, specializing in Integrated Circuits and Systems (EE6). My research focuses on developing resource-efficient on-chip classifiers for neural applications, with emphasis on seizure detection and closed-loop neuromodulation.\n\n\n\n\n\nPh.D. in Electrical Engineering | IIT Bombay | 2023-2027\nSpecialization: Integrated Circuits and Systems\n\n\nM.Tech in Electrical Engineering | NIT Rourkela | 2020-2022\n\n\nB.Tech | ITM Gwalior, RGPV Bhopal | 2014-2018\n\n\n\n\n\n\n\n\nDigital VLSI Design\nProcessor Design\nPhysical Design\n\n\n\n\nDesign for Test (DFT)\nFPGA Based Acceleration\nNeural Hardware Accelerators\n\n\n\n\n\n\n\n\n\nPh.D. Thesis | Guide: Prof. Laxmeesha Somappa\nCompleted Work:\n\n✅ Designed 16-channel logistic regression-based on-chip Seizure Detector with online retraining for adaptive closed-loop neuromodulation\n✅ Developed shared multiply-accumulate (MAC) architecture reducing area and power while maintaining real-time throughput\n✅ Completed full RTL-to-GDSII flow including synthesis, place-and-route, and sign-off\n\nOngoing Work:\n\n🔄 Exploring neural network architectures for biomedical signal processing applications\n🔄 Developing hardware accelerators for machine learning inference\n🔄 Investigating processor-accelerator integration for flexible neural network deployment\n🔄 Working on ASIC design methodologies for advanced technology nodes\n\n\n\n\n\n\nTools: Cadence (Genus, Innovus, Xcelium, Virtuoso), Xilinx Vivado, Altera Quartus Prime, OpenLane, Yosys, ModelSim, Magic, Ngspice, LTspice, GTKWave, MATLAB, LaTeX\nProgramming: Verilog, VHDL, SystemC, C/C++, Python, TCL, Bash, Makefile\nHardware: PYNQ-Z2, Nexys A7, Raspberry Pi, ESP32, Atmega328p, TM4C123\n\n\n\n\nSwimming • Reading • Rubik’s Cube • Bonsai • Trekking • Movies"
   },
   {
-    "objectID": "index.html#hi-im-ankur",
-    "href": "index.html#hi-im-ankur",
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
     "title": "Ankur Gupta",
     "section": "",
-    "text": "Ph.D. Scholar in Electrical Engineering at IIT Bombay, working at the intersection of VLSI design and machine learning hardware. I design efficient on-chip classifiers for neural applications, with a focus on biomedical signal processing and closed-loop neuromodulation systems.\n\n\n\n\n\n📝 Publications\n2 conference papers (ISCAS 2026, APCCAS 2025)\n\n\n🔬 Research Focus\nNeural hardware accelerators & ASIC design\n\n\n💡 Open Source\nContributor to Fairchem & eSim projects"
+    "text": "Ph.D. Scholar in Electrical Engineering at Indian Institute of Technology, Bombay, specializing in Integrated Circuits and Systems (EE6). My research focuses on developing resource-efficient on-chip classifiers for neural applications, with emphasis on seizure detection and closed-loop neuromodulation."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Ankur Gupta",
-    "section": "🎓 Education",
-    "text": "🎓 Education\n\n\nPh.D. in Electrical Engineering • IIT Bombay\nIntegrated Circuits and Systems | 2023-2027\n\n\nM.Tech in Electrical Engineering • NIT Rourkela\nSpecialization in VLSI | 2020-2022\n\n\nB.Tech in Electronics • ITM Gwalior\nRGPV Bhopal | 2014-2018"
+    "section": "",
+    "text": "Ph.D. in Electrical Engineering | IIT Bombay | 2023-2027\nSpecialization: Integrated Circuits and Systems\n\n\nM.Tech in Electrical Engineering | NIT Rourkela | 2020-2022\n\n\nB.Tech | ITM Gwalior, RGPV Bhopal | 2014-2018"
   },
   {
-    "objectID": "index.html#research-expertise",
-    "href": "index.html#research-expertise",
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
     "title": "Ankur Gupta",
-    "section": "🔬 Research Expertise",
-    "text": "🔬 Research Expertise\n\n\nDigital Design\n\nRTL Design & Verification\nProcessor Architecture\nHardware Description Languages\n\n\n\nPhysical Design\n\nSynthesis & Place-and-Route\nTiming Analysis & Optimization\nRTL-to-GDSII Flow\n\n\n\nML Hardware\n\nNeural Network Accelerators\nOn-chip Learning Systems\nLow-power Architectures\n\n\n\nFPGA & SoC\n\nFPGA Prototyping\nSystem-on-Chip Design\nHardware-Software Co-design"
+    "section": "",
+    "text": "Digital VLSI Design\nProcessor Design\nPhysical Design\n\n\n\n\nDesign for Test (DFT)\nFPGA Based Acceleration\nNeural Hardware Accelerators"
   },
   {
     "objectID": "index.html#current-research",
     "href": "index.html#current-research",
     "title": "Ankur Gupta",
-    "section": "📚 Current Research",
-    "text": "📚 Current Research\n\nOn-Chip Resource Efficient Classifiers for Neural Applications\nPh.D. Dissertation • Advisor: Prof. Laxmeesha Somappa\n\nKey Achievements:\n\n✅ Designed 16-channel on-chip seizure detector with adaptive online learning\n✅ Developed resource-efficient MAC architecture for real-time neural inference\n✅ Completed full RTL-to-GDSII implementation with successful tape-out readiness\n\nCurrent Work:\n\n🔄 Architecting scalable neural network accelerators for biomedical applications\n🔄 Exploring hardware-software co-design for flexible ML inference\n🔄 Developing energy-efficient computing solutions for edge AI"
+    "section": "",
+    "text": "Ph.D. Thesis | Guide: Prof. Laxmeesha Somappa\nCompleted Work:\n\n✅ Designed 16-channel logistic regression-based on-chip Seizure Detector with online retraining for adaptive closed-loop neuromodulation\n✅ Developed shared multiply-accumulate (MAC) architecture reducing area and power while maintaining real-time throughput\n✅ Completed full RTL-to-GDSII flow including synthesis, place-and-route, and sign-off\n\nOngoing Work:\n\n🔄 Exploring neural network architectures for biomedical signal processing applications\n🔄 Developing hardware accelerators for machine learning inference\n🔄 Investigating processor-accelerator integration for flexible neural network deployment\n🔄 Working on ASIC design methodologies for advanced technology nodes"
   },
   {
-    "objectID": "index.html#technical-proficiency",
-    "href": "index.html#technical-proficiency",
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
     "title": "Ankur Gupta",
-    "section": "💻 Technical Proficiency",
-    "text": "💻 Technical Proficiency\n\nEDA Tools\nCadence Suite (Genus, Innovus, Xcelium, Virtuoso) • Synopsys Tools • Xilinx Vivado • OpenLane • ModelSim\nHDL & Programming\nVerilog • VHDL • SystemC • C/C++ • Python • TCL • Bash\nPlatforms\nPYNQ-Z2 • Nexys A7 • Raspberry Pi • ARM Cortex-M • RISC-V"
+    "section": "",
+    "text": "Tools: Cadence (Genus, Innovus, Xcelium, Virtuoso), Xilinx Vivado, Altera Quartus Prime, OpenLane, Yosys, ModelSim, Magic, Ngspice, LTspice, GTKWave, MATLAB, LaTeX\nProgramming: Verilog, VHDL, SystemC, C/C++, Python, TCL, Bash, Makefile\nHardware: PYNQ-Z2, Nexys A7, Raspberry Pi, ESP32, Atmega328p, TM4C123"
   },
   {
-    "objectID": "index.html#beyond-research",
-    "href": "index.html#beyond-research",
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
     "title": "Ankur Gupta",
-    "section": "🌟 Beyond Research",
-    "text": "🌟 Beyond Research\nWhen I’m not designing circuits, you’ll find me:\n🏊 Swimming • 📚 Reading • 🧩 Solving Rubik’s Cubes • 🌳 Tending Bonsai • ⛰️ Trekking • 🎬 Watching Films"
+    "section": "",
+    "text": "Swimming • Reading • Rubik’s Cube • Bonsai • Trekking • Movies"
   },
   {
     "objectID": "about.html",
