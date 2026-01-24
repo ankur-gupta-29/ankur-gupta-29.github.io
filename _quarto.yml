@@ -9,7 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - publications.qmd
-      - linux_server.qmd
+      - href: blog.qmd
+        text: Blog
       - about.qmd
 
 format:

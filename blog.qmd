@@ -1,0 +1,18 @@
+---
+title: "Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+---
+
+## Technical Notes & Tips
+
+Welcome to my blog where I share technical solutions, tips, and insights from my work in VLSI design, hardware development, and systems engineering.
+
+### Recent Posts 
+

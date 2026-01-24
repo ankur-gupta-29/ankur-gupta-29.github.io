@@ -1,0 +1,37 @@
+---
+title: "Fixing MATLAB Error 5201"
+date: "2024-01-15"
+categories: [MATLAB, Troubleshooting, Linux]
+description: "Quick fix for MATLAB ServiceHost connection error"
+---
+
+## Problem
+
+Encountering **MATLAB Error 5201** when trying to connect or use MATLAB services. This error typically occurs due to corrupted ServiceHost or MATLAB Connector configuration files.
+
+## Solution
+
+Remove the corrupted configuration directories:
+
+```bash
+rm -rf ~/.MathWorks/ServiceHost ~/.MATLABConnector
+```
+
+## Explanation
+
+This command removes:
+- `~/.MathWorks/ServiceHost`: Contains ServiceHost configuration
+- `~/.MATLABConnector`: Contains MATLAB Connector settings
+
+MATLAB will recreate these directories with fresh configuration on next launch.
+
+## Steps
+
+1. Close all MATLAB instances
+2. Run the cleanup command
+3. Restart MATLAB
+4. The error should be resolved
+
+---
+
+*Tags: MATLAB, Error Fix, Linux Server*

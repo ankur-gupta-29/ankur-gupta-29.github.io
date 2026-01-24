@@ -21,6 +21,62 @@
     "text": "Open Source Contributions\n\nfacebookresearch/Fairchem - Contributed bug fixes to the open-source repository - GitHub Repository\n\n\nFOSSEE/eSim - Added automation scripts to enable seamless installation of open-source PDKs via Volare - GitHub Repository"
   },
   {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome to my blog where I share technical solutions, tips, and insights from my work in VLSI design, hardware development, and systems engineering."
+  },
+  {
+    "objectID": "blog.html#technical-notes-tips",
+    "href": "blog.html#technical-notes-tips",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome to my blog where I share technical solutions, tips, and insights from my work in VLSI design, hardware development, and systems engineering."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Published a paper titled “A Comparative Study of Adaptive Channel Selection for Resource-Constrained On-Chip Seizure Detection” at the IEEE Asia Pacific Conference on Circuits and Systems, Busan, South Korea, 2025\nManuscript under review: “A 16-Channel Rapid On-Chip Seizure Classifier with Online Re-Training for Closed-Loop Neuromodulation”, submitted to IEEE International Symposium on Circuits and Systems (ISCAS) 2026\nSecured First Runner-Up in the Smart India Hackathon 2017 by developing a Wheelchair control system using EOG signals for individuals with disabilities\nSecured First Prize in a PID-Based Line Follower Competition organized by ITM Vadodara\nSecured an All India Rank 3492 in the Graduate Aptitude Test in Engineering (GATE) 2020\nContributed bug fixes to the open-source facebookresearch/Fairchem GitHub repository\nAdded automation scripts in FOSSEE/eSim GitHub repository to enable seamless installation of open-source PDKs via Volare"
+  },
+  {
+    "objectID": "about.html#scholastic-achievements",
+    "href": "about.html#scholastic-achievements",
+    "title": "About",
+    "section": "",
+    "text": "Published a paper titled “A Comparative Study of Adaptive Channel Selection for Resource-Constrained On-Chip Seizure Detection” at the IEEE Asia Pacific Conference on Circuits and Systems, Busan, South Korea, 2025\nManuscript under review: “A 16-Channel Rapid On-Chip Seizure Classifier with Online Re-Training for Closed-Loop Neuromodulation”, submitted to IEEE International Symposium on Circuits and Systems (ISCAS) 2026\nSecured First Runner-Up in the Smart India Hackathon 2017 by developing a Wheelchair control system using EOG signals for individuals with disabilities\nSecured First Prize in a PID-Based Line Follower Competition organized by ITM Vadodara\nSecured an All India Rank 3492 in the Graduate Aptitude Test in Engineering (GATE) 2020\nContributed bug fixes to the open-source facebookresearch/Fairchem GitHub repository\nAdded automation scripts in FOSSEE/eSim GitHub repository to enable seamless installation of open-source PDKs via Volare"
+  },
+  {
+    "objectID": "about.html#key-academic-projects",
+    "href": "about.html#key-academic-projects",
+    "title": "About",
+    "section": "Key Academic Projects",
+    "text": "Key Academic Projects\n\nMAC unit with SPI | Course Project\nCourse: Hardware Description | Prof. Sachin Patkar (Nov’23)\n\nDesigned a SPI Protocol for MAC operation using MAC unit\nMAC unit designed using Dadda multiplier with Brent-Kung adder\nUtilized Verilog HDL for design using Vivado and conducted verification with a specific testbench\n\n\n\nPattern Detection using Neural-Network on FPGA Pynq-z2 | Course Project\nCourse: Embedded Systems Design | Prof. Laxmeesha Somappa (Apr’23)\n\nDesigned a neural network accelerator interfaced through AXI-Stream and controlled by a Zynq processor"
+  },
+  {
+    "objectID": "about.html#relevant-courses-taken",
+    "href": "about.html#relevant-courses-taken",
+    "title": "About",
+    "section": "Relevant Courses Taken",
+    "text": "Relevant Courses Taken\n\nVLSI Design & VLSI Design Lab\nHardware Description\nTesting and Verification\nIntroduction to Machine Learning\nEmbedded System Design"
+  },
+  {
+    "objectID": "about.html#work-experience",
+    "href": "about.html#work-experience",
+    "title": "About",
+    "section": "Work Experience",
+    "text": "Work Experience\n\nAssociate Engineer | AFFINE\n(Aug’22 - Dec’23)\n\nContributed in Data Visualization on Map project using Google cloud VM with login system using USER-ID and OTP"
+  },
+  {
+    "objectID": "about.html#positions-of-responsibility",
+    "href": "about.html#positions-of-responsibility",
+    "title": "About",
+    "section": "Positions of Responsibility",
+    "text": "Positions of Responsibility\n\nInstitute Teaching Assistant | IIT Bombay\nDigital Circuits Lab (Aug’23 - present) - Assisted students in writing and synthesizing VHDL code, and in testing designs on FPGA using JTAG, with verification against golden outputs\nEmbedded Systems Design (Jan’24 - present) - Guided Embedded C and VHDL/Verilog, taught Code Composer Studio, Vivado and Vitis SDK, and designed practical assignments for evaluation\nVLSI Design (Aug’24 - present) - Delivered hands-on tutorials on Magic, ngspice, OpenLane, and Cadence using the SKY130/TSMC65 PDK, and developed practical assignments for students\nVLSI Design LAB (Jan’25 - present) - Conducted hands-on tutorials on Vivado covering ILA, VIO, and BRAM - Guided students in RISC-V processor implementation on FPGA - Demonstrated the RTL-to-GDS flow using Cadence and OpenLane\n\n\nInstitute Interview Coordinator | IIT Bombay\n(Nov’25 - Dec’25)"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Ankur Gupta",
@@ -70,52 +126,38 @@
     "text": "Swimming • Reading • Rubik’s Cube • Bonsai • Trekking • Movies"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts/matlab-error-5201.html",
+    "href": "posts/matlab-error-5201.html",
+    "title": "Fixing MATLAB Error 5201",
     "section": "",
-    "text": "Published a paper titled “A Comparative Study of Adaptive Channel Selection for Resource-Constrained On-Chip Seizure Detection” at the IEEE Asia Pacific Conference on Circuits and Systems, Busan, South Korea, 2025\nManuscript under review: “A 16-Channel Rapid On-Chip Seizure Classifier with Online Re-Training for Closed-Loop Neuromodulation”, submitted to IEEE International Symposium on Circuits and Systems (ISCAS) 2026\nSecured First Runner-Up in the Smart India Hackathon 2017 by developing a Wheelchair control system using EOG signals for individuals with disabilities\nSecured First Prize in a PID-Based Line Follower Competition organized by ITM Vadodara\nSecured an All India Rank 3492 in the Graduate Aptitude Test in Engineering (GATE) 2020\nContributed bug fixes to the open-source facebookresearch/Fairchem GitHub repository\nAdded automation scripts in FOSSEE/eSim GitHub repository to enable seamless installation of open-source PDKs via Volare"
+    "text": "Encountering MATLAB Error 5201 when trying to connect or use MATLAB services. This error typically occurs due to corrupted ServiceHost or MATLAB Connector configuration files."
   },
   {
-    "objectID": "about.html#scholastic-achievements",
-    "href": "about.html#scholastic-achievements",
-    "title": "About",
+    "objectID": "posts/matlab-error-5201.html#problem",
+    "href": "posts/matlab-error-5201.html#problem",
+    "title": "Fixing MATLAB Error 5201",
     "section": "",
-    "text": "Published a paper titled “A Comparative Study of Adaptive Channel Selection for Resource-Constrained On-Chip Seizure Detection” at the IEEE Asia Pacific Conference on Circuits and Systems, Busan, South Korea, 2025\nManuscript under review: “A 16-Channel Rapid On-Chip Seizure Classifier with Online Re-Training for Closed-Loop Neuromodulation”, submitted to IEEE International Symposium on Circuits and Systems (ISCAS) 2026\nSecured First Runner-Up in the Smart India Hackathon 2017 by developing a Wheelchair control system using EOG signals for individuals with disabilities\nSecured First Prize in a PID-Based Line Follower Competition organized by ITM Vadodara\nSecured an All India Rank 3492 in the Graduate Aptitude Test in Engineering (GATE) 2020\nContributed bug fixes to the open-source facebookresearch/Fairchem GitHub repository\nAdded automation scripts in FOSSEE/eSim GitHub repository to enable seamless installation of open-source PDKs via Volare"
+    "text": "Encountering MATLAB Error 5201 when trying to connect or use MATLAB services. This error typically occurs due to corrupted ServiceHost or MATLAB Connector configuration files."
   },
   {
-    "objectID": "about.html#key-academic-projects",
-    "href": "about.html#key-academic-projects",
-    "title": "About",
-    "section": "Key Academic Projects",
-    "text": "Key Academic Projects\n\nMAC unit with SPI | Course Project\nCourse: Hardware Description | Prof. Sachin Patkar (Nov’23)\n\nDesigned a SPI Protocol for MAC operation using MAC unit\nMAC unit designed using Dadda multiplier with Brent-Kung adder\nUtilized Verilog HDL for design using Vivado and conducted verification with a specific testbench\n\n\n\nPattern Detection using Neural-Network on FPGA Pynq-z2 | Course Project\nCourse: Embedded Systems Design | Prof. Laxmeesha Somappa (Apr’23)\n\nDesigned a neural network accelerator interfaced through AXI-Stream and controlled by a Zynq processor"
+    "objectID": "posts/matlab-error-5201.html#solution",
+    "href": "posts/matlab-error-5201.html#solution",
+    "title": "Fixing MATLAB Error 5201",
+    "section": "Solution",
+    "text": "Solution\nRemove the corrupted configuration directories:\nrm -rf ~/.MathWorks/ServiceHost ~/.MATLABConnector"
   },
   {
-    "objectID": "about.html#relevant-courses-taken",
-    "href": "about.html#relevant-courses-taken",
-    "title": "About",
-    "section": "Relevant Courses Taken",
-    "text": "Relevant Courses Taken\n\nVLSI Design & VLSI Design Lab\nHardware Description\nTesting and Verification\nIntroduction to Machine Learning\nEmbedded System Design"
+    "objectID": "posts/matlab-error-5201.html#explanation",
+    "href": "posts/matlab-error-5201.html#explanation",
+    "title": "Fixing MATLAB Error 5201",
+    "section": "Explanation",
+    "text": "Explanation\nThis command removes: - ~/.MathWorks/ServiceHost: Contains ServiceHost configuration - ~/.MATLABConnector: Contains MATLAB Connector settings\nMATLAB will recreate these directories with fresh configuration on next launch."
   },
   {
-    "objectID": "about.html#work-experience",
-    "href": "about.html#work-experience",
-    "title": "About",
-    "section": "Work Experience",
-    "text": "Work Experience\n\nAssociate Engineer | AFFINE\n(Aug’22 - Dec’23)\n\nContributed in Data Visualization on Map project using Google cloud VM with login system using USER-ID and OTP"
-  },
-  {
-    "objectID": "about.html#positions-of-responsibility",
-    "href": "about.html#positions-of-responsibility",
-    "title": "About",
-    "section": "Positions of Responsibility",
-    "text": "Positions of Responsibility\n\nInstitute Teaching Assistant | IIT Bombay\nDigital Circuits Lab (Aug’23 - present) - Assisted students in writing and synthesizing VHDL code, and in testing designs on FPGA using JTAG, with verification against golden outputs\nEmbedded Systems Design (Jan’24 - present) - Guided Embedded C and VHDL/Verilog, taught Code Composer Studio, Vivado and Vitis SDK, and designed practical assignments for evaluation\nVLSI Design (Aug’24 - present) - Delivered hands-on tutorials on Magic, ngspice, OpenLane, and Cadence using the SKY130/TSMC65 PDK, and developed practical assignments for students\nVLSI Design LAB (Jan’25 - present) - Conducted hands-on tutorials on Vivado covering ILA, VIO, and BRAM - Guided students in RISC-V processor implementation on FPGA - Demonstrated the RTL-to-GDS flow using Cadence and OpenLane\n\n\nInstitute Interview Coordinator | IIT Bombay\n(Nov’25 - Dec’25)"
-  },
-  {
-    "objectID": "linux_server.html",
-    "href": "linux_server.html",
-    "title": "Linux Server",
-    "section": "",
-    "text": "Matlab error 5201\nsolution: rm -rf ~/.MathWorks/ServiceHost ~/.MATLABConnector"
+    "objectID": "posts/matlab-error-5201.html#steps",
+    "href": "posts/matlab-error-5201.html#steps",
+    "title": "Fixing MATLAB Error 5201",
+    "section": "Steps",
+    "text": "Steps\n\nClose all MATLAB instances\nRun the cleanup command\nRestart MATLAB\nThe error should be resolved\n\n\nTags: MATLAB, Error Fix, Linux Server"
   }
 ]
