@@ -20,6 +20,9 @@ format:
       - brand
     css: styles.css
     toc: true
+    include-in-header:
+      text: |
+        <meta name="google-adsense-account" content="ca-pub-2416419296440776">
 
 
 
